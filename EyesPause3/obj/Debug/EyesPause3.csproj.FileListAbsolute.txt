@@ -1,0 +1,8 @@
+D:\Projects\EyesPause3\EyesPause3\bin\Debug\EyesPause3.exe
+D:\Projects\EyesPause3\EyesPause3\bin\Debug\EyesPause3.pdb
+D:\Projects\EyesPause3\EyesPause3\obj\Debug\EyesPause3.csprojResolveAssemblyReference.cache
+D:\Projects\EyesPause3\EyesPause3\obj\Debug\EyesPause3.Properties.Resources.resources
+D:\Projects\EyesPause3\EyesPause3\obj\Debug\EyesPause3.csproj.GenerateResource.Cache
+D:\Projects\EyesPause3\EyesPause3\obj\Debug\EyesPause3.exe
+D:\Projects\EyesPause3\EyesPause3\obj\Debug\EyesPause3.pdb
+D:\Projects\EyesPause3\EyesPause3\obj\Debug\EyesPause3.FormMain.resources
